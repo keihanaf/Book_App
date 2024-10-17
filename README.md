@@ -5,7 +5,7 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-<h3><a href="/">View Book App</a></h3>
+<h3><a href="https://book-app-taupe-beta.vercel.app/">View Book App</a></h3>
 
 ## Project Overview
 This project integrates React with Vite, enabling fast development through HMR (Hot Module Replacement) and includes some basic ESLint rules for code quality.
