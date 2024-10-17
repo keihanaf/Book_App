@@ -180,6 +180,14 @@ The project structure includes:
 ├── vite.config.js
 ```
 
+## Languages and Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,javascript,vite,css,vscode" />
+  </a>
+</p>
+
 ## License
 This project is licensed under the MIT License.
 
